@@ -11,7 +11,7 @@ y=y+1;
 z=x+y;
 
 y=z;
-cout << "Total is : " << y;
+cout << "Total is: " << y;
 
 return 0;
 }
